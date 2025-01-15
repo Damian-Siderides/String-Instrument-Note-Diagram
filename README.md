@@ -3,6 +3,7 @@
 Python script which prints the notes of string instruments to the console.
 
 ![Note Diagram Image](note-diagram.png)
+
 ## Run
 
 ```
@@ -14,3 +15,4 @@ python note-diagram.py
 - Displaying the information with more visual appeal. (Perhaps as an image?, Text spaced out better?)
 - Specify number of frets?
 - Include which octave (ie C4), frequency of each note?
+- Display as a website.
