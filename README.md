@@ -2,6 +2,7 @@
 
 Python script which prints the notes of string instruments to the console.
 
+![Note Diagram Image](note-diagram.png)
 ## Run
 
 ```
