@@ -1,12 +1,11 @@
 notes = ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B']
 
 def print_string(note):
-	start = notes.index(note) # this is the section to fix, perhaps .find() will assist
+	start = notes.index(note)
 
 	octaves = 2
 	size = len(notes)
 
-	# print('[', end='')
 	for i in range(size * octaves + 1):
 		if (i % size) == 0:
 			print('[', end='')
