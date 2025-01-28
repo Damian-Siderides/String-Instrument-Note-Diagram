@@ -12,7 +12,7 @@ python note-diagram.py
 
 ## Future Ideas
 
+- [x] Specify number of frets?
 - Displaying the information with more visual appeal. (Perhaps as an image?, Text spaced out better?)
-- Specify number of frets?
 - Include which octave (ie C4), frequency of each note?
 - Display as a website.
